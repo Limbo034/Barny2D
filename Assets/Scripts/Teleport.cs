@@ -47,7 +47,7 @@ public class Teleport : MonoBehaviour
         {
             animator.SetBool("enterteleport", false);
 
-            theMarker.transform.position = new Vector2(12f, 12f);
+            theMarker.transform.position = new Vector2(20f, 20f);
 
             isPlayerNear = false;
         }
