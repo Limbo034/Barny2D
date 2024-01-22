@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class CoinPicker : MonoBehaviour
+public class Coin: MonoBehaviour
 {
     public int coins = 0;
     //public TMP_Text coinsText;
