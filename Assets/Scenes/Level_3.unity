@@ -665,7 +665,7 @@ MonoBehaviour:
   m_Follow: {fileID: 1584426745574949269}
   m_Lens:
     FieldOfView: 16.626122
-    OrthographicSize: 6
+    OrthographicSize: 5
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -915,7 +915,7 @@ Camera:
   far clip plane: 1000
   field of view: 16.626122
   orthographic: 1
-  orthographic size: 6
+  orthographic size: 5
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -938,7 +938,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_LocalRotation: {x: 0, y: -6.365506e-37, z: -1.0935856e-26, w: 1}
+  m_LocalRotation: {x: 0, y: -6.367548e-37, z: -1.09393645e-26, w: 1}
   m_LocalPosition: {x: -0.55999947, y: -1.5999994, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1515,7 +1515,7 @@ GameObject:
   - component: {fileID: 1134243215}
   - component: {fileID: 1134243213}
   m_Layer: 6
-  m_Name: Tilemap
+  m_Name: Ground
   m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
